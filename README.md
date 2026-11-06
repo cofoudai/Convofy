@@ -1,5 +1,5 @@
 # Convofy
-The next Facebook, Instagram, Reddit.
+The next Facebook, Instagram, and Reddit.
 
 Company Culture:
 
