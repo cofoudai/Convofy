@@ -1,13 +1,13 @@
 import random
 
-topics= ["Sports","Academics","Food"]
+topics= ["Sports","Academics","Food","Life"]
 
 #Placeholder
 
 def algorithm():
   likes = input("What topics do you like")
   if likes in topics:
-    print("We will show you more of" + likes + " .")
+    print("We will show you more of " + likes + " .")
   else:
     print("That is not a topic, sorry.")
 
