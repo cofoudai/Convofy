@@ -7,7 +7,7 @@ algorithm()
 
 #Placeholder
 
-def algorithm:
+def algorithm():
   likes = input("What topics do you like")
   if likes in topics:
     print("We will show you more of" + likes + " .")
